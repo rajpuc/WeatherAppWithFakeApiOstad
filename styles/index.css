@@ -1,0 +1,15 @@
+.weather-bg{
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    backdrop-filter: grayscale(100);
+}
+input.form-control{
+    height: 50px;
+}
+button.btn.btn-danger{
+    width: 130px;
+}
